@@ -1,0 +1,9 @@
+G:\Microsoft Visual Studio 10.0\Projects\DailyHL\DailyHL\obj\x86\Release\WindowsApplication1.Form1.resources
+G:\Microsoft Visual Studio 10.0\Projects\DailyHL\DailyHL\obj\x86\Release\WindowsApplication1.Resources.resources
+G:\Microsoft Visual Studio 10.0\Projects\DailyHL\DailyHL\obj\x86\Release\DailyHL.vbproj.GenerateResource.Cache
+G:\Microsoft Visual Studio 10.0\Projects\DailyHL\DailyHL\obj\x86\Release\DailyHL.exe
+G:\Microsoft Visual Studio 10.0\Projects\DailyHL\DailyHL\obj\x86\Release\DailyHL.xml
+G:\Microsoft Visual Studio 10.0\Projects\DailyHL\DailyHL\obj\x86\Release\DailyHL.pdb
+G:\DailyHL.exe
+G:\DailyHL.pdb
+G:\DailyHL.xml
