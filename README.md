@@ -4,7 +4,7 @@ This is the daily Half Life image update, made for the YouTuber [Hazard Time](ht
 ## Setup
 Steps for running this:
 
-1. Install the [Download .NET Framework 4.0](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net40) from Microsoft by selecting the Runtime download option
+1. Install the [.NET Framework 4.0](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net40) from Microsoft by selecting the Runtime download option
 2. Make a folder in your "Documents" directory named DailyHL
 3. In this folder make two files "days.txt" and "date.txt"
 4. In these text files write the last video number and the date of the last video in format `MM-DD-YYYY`
